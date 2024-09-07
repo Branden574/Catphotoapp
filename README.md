@@ -1,4 +1,4 @@
-verview
+Overview
 The CatPhotoApp is a simple webpage that showcases a collection of cat photos, lists things cats love and hate, and includes a form for users to submit their own cat photos. It serves as a fun, interactive page for cat enthusiasts to explore and share cat-related content.
 
 Features
